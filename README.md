@@ -1,4 +1,9 @@
 # p5.js Video on IOS - MCVE
-MCVE on how to get inline video to run in IOS
+Simple example on how to implement video on IOS mobile browsers
 
-see https://discourse.processing.org/t/ios-support-for-inline-video-touch-events-and-audio/10961 for more details
+see https://discourse.processing.org/t/ios-support-for-inline-video-touch-events-and-audio/10961/2 for more info
+
+try it on your IOS device:
+
+![qr_code](assets/qr.png)
+
